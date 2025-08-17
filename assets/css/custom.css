@@ -33,3 +33,17 @@
   width: 100%;
   max-width: 100%;
 }
+
+/* Fix spacing on main page */
+.index-content {
+  margin: 0;
+}
+
+.index-content h1:first-child {
+  margin-top: 0;
+}
+
+/* Adjust header spacing */
+.header {
+  margin-bottom: 20px;
+}

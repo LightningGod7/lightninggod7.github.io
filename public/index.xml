@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LightningGod&#39;s Blog</title>
+    <link>https://lightninggod7.github.io/</link>
+    <description>Recent content on LightningGod&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://lightninggod7.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://lightninggod7.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lightninggod7.github.io/</guid>
+      <description>Hi there I&amp;rsquo;m Zeus!
+I work in adversary emulation and offensive security, with a growing focus on IoT hacking. Most of my research centers on firmware—figuring out how to acquire, analyze, and emulate it at scale. The goal is to better understand how embedded systems can be attacked and defended, and to build practical tools that make large-scale IoT security testing possible.
+My passion for ethical hacking and cybersecurity drives me to constantly learn and improve.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -17,7 +17,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/zeus-chan) if 
 
 Here are the materials I've prepared for my OSCP Exam. Click the links to explore each section:
 
-- [My modus operandi](/certs/OSCP/)
+- [My modus operandi](/posts/oscp-guide/)
 - [CheatSheet](/posts/cheat-sheets)
 - [Methodology](/posts/methodologies)
 - [Scripts](/posts/scripts)
@@ -27,7 +27,7 @@ Here are the materials I've prepared for my OSCP Exam. Click the links to explor
 
 Browse my write-ups on various security topics and certifications:
 
-- [OSCP Write-ups](/certs/OSCP/)
+- [OSCP Write-ups](/posts/oscp-guide/)
 - [OSEP Write-ups](/osep/)
 - [OSWP Write-ups](/oswp/)
 - [IoT Hacking](/iot-hacking/)

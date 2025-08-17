@@ -3,8 +3,6 @@ title = "Why having an MO is important"
 date = "2025-08-17"
 author = "Zeus"
 tags = ["oscp", "methodology", "tools"]
-type = "page"
-url = "/certs/OSCP/"
 +++
 
 ### Why I'm Sharing This

@@ -4,6 +4,9 @@ title = "LightningGod's Blog"
 theme = "terminal"
 paginate = 5
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -61,6 +64,9 @@ paginate = 5
   creator = ""
   site = ""
 
+[permalinks]
+  certs = "/:sections/:filename/"
+
 [languages]
   [languages.en]
     languageName = "English"
@@ -89,7 +95,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "oscp"
         name = "OSCP"
-        url = "/certs/OSCP"
+        url = "/posts/oscp-guide/"
       [[languages.en.menu.main]]
         identifier = "cheatsheets"
         name = "Cheat Sheets"

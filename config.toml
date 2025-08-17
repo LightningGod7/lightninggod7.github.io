@@ -1,6 +1,6 @@
 baseURL = "https://lightninggod7.github.io/"
 languageCode = "en-us"
-title = "Zeus's Security Blog"
+title = "LightningGod's Blog"
 theme = "terminal"
 paginate = 5
 
@@ -64,10 +64,10 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Zeus's Security Blog"
+    title = "LightningGod's Blog"
     subtitle = "Offensive Security & Ethical Hacking"
     owner = "Zeus"
-    keywords = "security, hacking, oscp, cybersecurity"
+    keywords = "cybersecurity, hacking, iot"
     copyright = ""
     menuMore = "Show more"
     readMore = "Read more"
@@ -78,7 +78,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Zeus's Security Blog"
+      logoText = "LightningGod's Blog"
       logoHomeLink = "/"
 
     [languages.en.menu]

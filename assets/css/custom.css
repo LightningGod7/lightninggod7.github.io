@@ -1,0 +1,35 @@
+/* Custom theme colors */
+:root {
+  --background: rgb(26, 23, 15);
+  --color: rgb(236, 234, 229);
+  --accent: rgb(238, 195, 94);
+  
+  /* Override terminal theme variables */
+  --background-color: var(--background);
+  --header-color: var(--accent);
+  --font-color: var(--color);
+  --accent-color: var(--accent);
+  
+  /* Other overrides */
+  --border-color: var(--accent);
+  --phoneWidth: (max-width: 684px);
+  --tabletWidth: (max-width: 900px);
+}
+
+/* Make the content flush left and span the entire viewport */
+.container {
+  margin: 0;
+  max-width: 100%;
+  padding: 0 20px;
+}
+
+.content {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* Adjust post width */
+.post {
+  width: 100%;
+  max-width: 100%;
+}

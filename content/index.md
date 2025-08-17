@@ -1,5 +1,6 @@
 +++
 title = "About Me"
+type = "page"
 +++
 
 Hi there I'm Zeus! 
